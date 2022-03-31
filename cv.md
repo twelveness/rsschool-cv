@@ -37,4 +37,5 @@
     <p>German - B2</p>
     <p>Polish - A2</p>
     <p>Russian - fluent</p>
+    <hr>
   </body>
